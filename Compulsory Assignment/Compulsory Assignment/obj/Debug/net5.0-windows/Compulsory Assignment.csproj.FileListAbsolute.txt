@@ -1,0 +1,18 @@
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.exe
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.deps.json
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.runtimeconfig.json
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.runtimeconfig.dev.json
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.dll
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\ref\Compulsory Assignment.dll
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\bin\Debug\net5.0-windows\Compulsory Assignment.pdb
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.csproj.AssemblyReference.cache
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory_Assignment.Form1.resources
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.csproj.GenerateResource.cache
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.AssemblyInfoInputs.cache
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.AssemblyInfo.cs
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.csproj.CoreCompileInputs.cache
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.dll
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\ref\Compulsory Assignment.dll
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.pdb
+D:\Docs\EASV\Parallel Programming\Compulsory Assignment\Compulsory Assignment\obj\Debug\net5.0-windows\Compulsory Assignment.genruntimeconfig.cache
